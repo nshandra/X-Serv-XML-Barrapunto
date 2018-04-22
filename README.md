@@ -10,4 +10,5 @@ Detalles del enunciado en el programa de la asignatura.
 ## Usage
 
 python3 parser-rss-barrapunto.py [rss_file]
+
 Genera el fichero HTML links.html a partir de http://barrapunto.com/index.rss o del fichero mencionado por el argumento opcional rss_file.
